@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="8" revision="0" build="500" />
+  <region id="Config">
+    <node id="root">
+      <children>
+        <node id="Conflicts" />
+        <node id="Dependencies" />
+        <node id="ModuleInfo">
+          <attribute id="Author" type="LSString" value="Serpentine" />
+          <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
+          <attribute id="Description" type="LSString" value="Adds body-type compatibility info to armor and clothing item descriptions. When you hover or examine an armor item, the tooltip shows which races and body shapes that item supports. Requires BG3 Script Extender. A sidecar utility must be run after installing or changing armor mods to refresh the compatibility cache." />
+          <attribute id="Folder" type="LSString" value="AlanTooltipCompat_a7c0ffee-7501-4f00-a17a-c00b08ec4377" />
+          <attribute id="LobbyLevelName" type="FixedString" value="" />
+          <attribute id="MD5" type="LSString" value="" />
+          <attribute id="MenuLevelName" type="FixedString" value="" />
+          <attribute id="Name" type="LSString" value="Compatible Bodies Tooltip" />
+          <attribute id="NumPlayers" type="uint8" value="4" />
+          <attribute id="PhotoBooth" type="FixedString" value="" />
+          <attribute id="StartupLevelName" type="FixedString" value="" />
+          <attribute id="Tags" type="LSString" value="" />
+          <attribute id="Type" type="FixedString" value="Add-on" />
+          <attribute id="UUID" type="FixedString" value="a7c0ffee-7501-4f00-a17a-c00b08ec4377" />
+          <attribute id="Version64" type="int64" value="36028797018963968" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
