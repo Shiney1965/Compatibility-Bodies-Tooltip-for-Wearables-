@@ -1,0 +1,28 @@
+# Build artifacts - not in source control
+*.pak
+*.zip
+
+# Python bytecode and caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Sidecar runtime outputs
+sidecar/output/
+sidecar/Tools/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Backups
+*.bak
+*.before_probe
+stowaway_backup_*/
+
+# Logs
+*.log
